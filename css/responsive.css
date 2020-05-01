@@ -60,15 +60,3 @@ font-size: 0.9em;
 }
 
 
-
-
-
-- **Add a breakpoint for 750px**
-  - Within this breakpoint:
-    - Set the font size of the `#navbar nav a` selector to 0.9em;
-    - Change the `.col-3 p` column count to 1
-    - For the `.col-1`, `.col-2`, and `.col-3` selectors, set the width to 100%, left margin to 0, and float to none
-    - Remove the right border by setting `.border-right` border property to 0
-    - Set the `#details div` height to auto
-    
-   
